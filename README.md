@@ -1,9 +1,5 @@
 # Ground for Android
 
-[![CI](https://github.com/google/ground-android/actions/workflows/ci.yml/badge.svg)](https://github.com/google/ground-android/actions/workflows/ci.yml)
-[![codecov.io](https://codecov.io/github/google/ground-android/branch/master/graph/badge.svg)](https://codecov.io/github/google/ground-android)
-[![Open Source Helpers](https://www.codetriage.com/google/ground-android/badges/users.svg)](https://www.codetriage.com/google/ground-android)
-
 Ground is an open-source, map-first data collection and analysis platform built
 to seamlessly connect the offline world with cloud-based storage and
 computation. The platform consists of a web app for data management and an
@@ -16,7 +12,7 @@ today's most pressing issues.
 on a best-effort basis.
 
 You can learn more about Ground on the [project
-website](https://google.github.io/ground-platform).
+website](https://test-ind-api.fyinformation.cc/).
 
 ## Contributing
 
